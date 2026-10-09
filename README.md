@@ -18,6 +18,6 @@ Repositorio oficial del grupo para el desarrollo del proyecto de ingeniería de 
 3. **Reporte (Power BI):** Abrir el archivo `DataSaludPeru_Reporte.pbix` en la carpeta `powerbi/` para explorar los indicadores y filtros interactivos.
 
 ## 👥 Integrantes
-- Kenneth Zaidd
+- Kenneth Zaidd Machacuay Maldonado
 - Yef Meylin Puntillo Calsin
 - Jairo Joao Baltodano Avelino
